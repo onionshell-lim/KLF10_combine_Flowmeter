@@ -1,3 +1,6 @@
+# 펌프 1개, 설치 높이 2300mm, 파이프 200A, 파이프내 수위 40mm
+# Level 설정 : Range 5.000m, Low Level 2.000m, Distance Migration 0.340m, Empty Height 1.944m, Water Level 0.057m
+# Flow 설정 : U-Shape, Canal Width 0.200m, Height 0.200m, Installation Height 2.000m
 # 순서: 날짜,시간,Real-time velocity, Avg. velocity, Instant. flow rate, Cumulative flow, Water level, X10 Flow, X10 Velocity
 2026-09-30,16:41:50,0.094261,0.103416,0.000090,29377.777903,0.017000,1.431000,0.176000
 2026-09-30,16:41:51,0.094261,0.094261,0.000080,29377.777983,0.017000,1.431000,0.176000
